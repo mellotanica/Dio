@@ -14,3 +14,6 @@ Feel free to fork Dio and add below the reason why you had to fork it!
 
 ## Leave a mark below
 
+Because life.
+
+Also he was a great singer.
